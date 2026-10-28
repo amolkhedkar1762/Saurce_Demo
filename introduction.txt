@@ -1,6 +1,10 @@
 Project: VMS
 Aut Tool: Selenium
 Language: C#
+<<<<<<< HEAD
 Team : Amol, pankaj, Nikhil,Vishal
 .Net
 
+=======
+Team : Amol, pankaj, Nikhil
+>>>>>>> 17c03eacee99343705d506b1793df1255c3a2422
